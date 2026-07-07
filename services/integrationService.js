@@ -13,8 +13,9 @@ const {
 const {
     logIntegration
 } = require("./logService");
+const logger = require("../config/logger");
 
-const processIntegration = async () => {
+const processIntegration = async (context = {}) => {
 
     let attempts = 3;
 
@@ -22,11 +23,10 @@ const processIntegration = async () => {
 
         try {
 
-            console.log(
-                `Integration attempt: ${
-                    4 - attempts
-                }`
-            );
+            logger.info("integration_attempt", {
+                requestId: context.requestId,
+                attempt: 4 - attempts
+            });
 
             // Extract
             const sapData =
@@ -48,7 +48,8 @@ const processIntegration = async () => {
             logIntegration({
                 status: "SUCCESS",
                 message:
-                    "Financial data synced successfully"
+                    "Financial data synced successfully",
+                requestId: context.requestId
             });
 
             return {
@@ -62,13 +63,16 @@ const processIntegration = async () => {
 
             attempts--;
 
-            console.log(
-                `Retry attempts left: ${attempts}`
-            );
+            logger.warn("integration_retry", {
+                requestId: context.requestId,
+                attemptsLeft: attempts,
+                error: error.message
+            });
 
             logIntegration({
                 status: "FAILED",
-                message: error.message
+                message: error.message,
+                requestId: context.requestId
             });
 
             if (attempts === 0) {

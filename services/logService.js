@@ -1,6 +1,6 @@
 const fs = require("fs");
-
 const path = require("path");
+const logger = require("../config/logger");
 
 const logIntegration = (logData) => {
 
@@ -17,6 +17,8 @@ Message: ${logData.message}
 `;
 
     fs.appendFileSync(logFilePath, logEntry);
+
+    logger.info("integration_event", logData);
 };
 
 module.exports = { logIntegration };

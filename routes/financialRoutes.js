@@ -2,25 +2,33 @@ const express = require("express");
 
 const router = express.Router();
 
-const {
-    getFinancialData
-} = require("../services/financialService");
+const authMiddleware = require("../middleware/authMiddleware");
+const roleMiddleware = require("../middleware/roleMiddleware");
 
-router.get("/financial-data", async (req, res) => {
+const { getFinancialData } = require("../services/financialService");
 
-    try {
+router.get(
+    "/financial-data",
+    authMiddleware,
+    roleMiddleware("admin"),
+    async (req, res) => {
 
-        const data = await getFinancialData();
+        try {
 
-        res.status(200).json(data);
+            const data = await getFinancialData();
 
-    } catch (error) {
+            res.status(200).json(data);
 
-        res.status(500).json({
-            message: "Failed to fetch financial data",
-            error: error.message
-        });
+        } catch (err) {
+
+            res.status(500).json({
+                success: false,
+                message: err.message
+            });
+
+        }
+
     }
-});
+);
 
 module.exports = router;

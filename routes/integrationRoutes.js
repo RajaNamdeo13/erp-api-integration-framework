@@ -2,59 +2,51 @@ const express = require("express");
 
 const router = express.Router();
 
-const {
-    processIntegration
-} = require("../services/integrationService");
+const authMiddleware = require("../middleware/authMiddleware");
+const roleMiddleware = require("../middleware/roleMiddleware");
+
+const validationMiddleware = require("../middleware/validationMiddleware");
+
+const { processIntegration } = require("../services/integrationService");
 
 router.post(
     "/run-integration",
+    authMiddleware,
+    roleMiddleware("admin"),
     async (req, res) => {
 
         try {
 
-            const result =
-                await processIntegration();
+            const result = await processIntegration();
 
-            res.status(200).json(result);
+            res.json(result);
 
-        } catch (error) {
+        } catch (err) {
 
             res.status(500).json({
-                message:
-                    "Integration failed",
-                error: error.message
+                success: false,
+                message: err.message
             });
+
         }
+
+    }
+);
+
+router.post(
+    "/custom-integration",
+    authMiddleware,
+    roleMiddleware("admin"),
+    validationMiddleware,
+    async (req, res) => {
+
+        res.json({
+            success: true,
+            message: "Custom Integration Successful",
+            data: req.body
+        });
+
     }
 );
 
 module.exports = router;
-
-const validationMiddleware =
-    require("../middleware/validationMiddleware");
-
-router.post(
-    "/custom-integration",
-    validationMiddleware,
-    async (req, res) => {
-
-        try {
-
-            const financialData = req.body;
-
-            res.status(200).json({
-                success: true,
-                message:
-                    "Custom financial data received",
-                data: financialData
-            });
-
-        } catch (error) {
-
-            res.status(500).json({
-                success: false,
-                message: error.message
-            });
-        }
-    }
-);

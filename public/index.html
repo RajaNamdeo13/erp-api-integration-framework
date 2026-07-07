@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ERP Integration Command Center</title>
+
+    <link rel="stylesheet" href="/css/styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+    <!-- ========================= -->
+    <!-- Navigation -->
+    <!-- ========================= -->
+
+    <nav class="navbar">
+
+        <div class="logo">
+
+            <i class="fa-solid fa-network-wired"></i>
+
+            ERP Integration Framework
+
+        </div>
+
+        <div class="nav-right">
+
+            <span id="serverStatus" class="status online">
+
+                ● Online
+
+            </span>
+
+        </div>
+
+    </nav>
+
+    <!-- ========================= -->
+    <!-- Hero -->
+    <!-- ========================= -->
+
+    <section class="hero">
+
+        <h1>ERP Integration Command Center</h1>
+
+        <p>
+
+            Enterprise API Integration Platform
+
+            • SAP S/4HANA Simulation
+
+            • Financial Analytics
+
+            • JWT Security
+
+            • ETL Pipeline
+
+        </p>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- KPI Cards -->
+    <!-- ========================= -->
+
+    <section class="cards">
+
+        <div class="card">
+
+            <i class="fa-solid fa-heart-pulse"></i>
+
+            <h3>Health</h3>
+
+            <h2 id="healthValue">Checking...</h2>
+
+        </div>
+
+        <div class="card">
+
+            <i class="fa-solid fa-lock"></i>
+
+            <h3>Authentication</h3>
+
+            <h2 id="authStatus">Not Logged In</h2>
+
+        </div>
+
+        <div class="card">
+
+            <i class="fa-solid fa-server"></i>
+
+            <h3>Node Runtime</h3>
+
+            <h2 id="runtime">Loading...</h2>
+
+        </div>
+
+        <div class="card">
+
+            <i class="fa-solid fa-chart-line"></i>
+
+            <h3>Memory Usage</h3>
+
+            <h2 id="memory">Loading...</h2>
+
+        </div>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- Action Buttons -->
+    <!-- ========================= -->
+
+    <section class="actions">
+
+        <button id="loginBtn">
+
+            <i class="fa-solid fa-user-shield"></i>
+
+            Login as Admin
+
+        </button>
+
+        <button id="loadBtn">
+
+            <i class="fa-solid fa-database"></i>
+
+            Load Financial Data
+
+        </button>
+
+        <button id="integrationBtn">
+
+            <i class="fa-solid fa-gears"></i>
+
+            Run Integration
+
+        </button>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- Financial Data -->
+    <!-- ========================= -->
+
+    <section class="table-section">
+
+        <h2>
+
+            Financial Records
+
+        </h2>
+
+        <table>
+
+            <thead>
+
+                <tr>
+
+                    <th>ID</th>
+
+                    <th>Company</th>
+
+                    <th>Revenue</th>
+
+                    <th>Profit</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody id="financialTable">
+
+            </tbody>
+
+        </table>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- Logs -->
+    <!-- ========================= -->
+
+    <section class="logs">
+
+        <h2>
+
+            Activity Logs
+
+        </h2>
+
+        <div id="logsContainer">
+
+            Waiting for events...
+
+        </div>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- Footer -->
+    <!-- ========================= -->
+
+    <footer>
+
+        ERP Integration Framework
+
+        © 2026
+
+        | Built using Node.js • Express.js • JWT • Swagger • Docker • PostgreSQL
+
+    </footer>
+
+    <script src="/js/dashboard.js"></script>
+
+</body>
+
+</html>

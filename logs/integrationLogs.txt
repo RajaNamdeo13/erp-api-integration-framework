@@ -178,3 +178,713 @@ Time: 2026-05-17T07:08:30.948Z
 Status: SUCCESS
 Message: Financial data synced successfully
 -----------------------------------
+
+Time: 2026-05-18T07:25:00.962Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:17:01.068Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:17:30.666Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:18:00.687Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:18:30.679Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:19:00.834Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:19:30.656Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:20:00.823Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:20:30.957Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:21:01.054Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:21:30.826Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:22:00.980Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:22:30.694Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:51:31.267Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:52:00.800Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:52:30.733Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:53:00.723Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:53:30.696Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-05-18T10:54:00.656Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:12:01.246Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:12:30.612Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:13:01.064Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:13:31.073Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:14:01.152Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:14:30.965Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:15:00.711Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:15:30.567Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:16:01.052Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:16:30.559Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:17:01.173Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:17:30.714Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:18:00.609Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:18:30.755Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:19:00.682Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:19:30.631Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:20:01.012Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T10:20:30.963Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:20:31.036Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:20:31.109Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:21:00.277Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:21:00.389Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:21:00.482Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:21:30.339Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:21:30.447Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:21:30.570Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:22:00.306Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:22:00.387Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:22:00.461Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:22:30.236Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:22:30.311Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:22:30.386Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:23:00.373Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:23:00.465Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:23:00.562Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:23:30.280Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:23:30.374Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:23:30.468Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:24:00.273Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:24:00.359Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:24:00.465Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:24:30.290Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:24:30.385Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:24:30.482Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:25:00.279Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:25:00.372Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:25:00.462Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:25:30.240Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:25:30.317Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:25:30.479Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:26:00.332Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:26:00.440Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:26:00.849Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:26:30.281Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:26:30.368Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:26:30.455Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:27:00.346Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:27:00.446Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:27:00.545Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:27:30.220Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:27:30.293Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:27:30.363Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:28:00.888Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:28:01.012Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:28:01.140Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:28:30.291Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:28:30.381Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:28:30.473Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:29:00.297Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:29:00.382Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:29:00.467Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:29:30.226Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:29:30.301Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:29:30.369Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:30:00.242Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:30:00.316Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:30:00.389Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:30:30.211Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:30:30.281Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:30:30.350Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:31:00.244Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:31:00.315Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:31:00.388Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:31:30.301Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:31:30.393Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:31:30.485Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:32:00.680Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:32:00.774Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:32:00.869Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:32:30.291Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:32:30.385Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:32:30.478Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:33:00.270Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:33:00.353Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:33:00.442Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:33:30.287Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:33:30.378Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:33:30.469Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:34:00.403Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:34:00.497Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:34:00.594Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:34:30.283Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:34:30.375Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T10:34:30.472Z
+Status: FAILED
+Message: Request failed with status code 404
+-----------------------------------
+
+Time: 2026-07-07T13:42:01.616Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:42:31.128Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:43:00.643Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:43:30.758Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:44:01.005Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:44:30.606Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:45:01.137Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:45:31.154Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:46:01.076Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:46:30.632Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:47:01.092Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:47:31.238Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:48:01.161Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:48:31.160Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:49:01.125Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:49:31.700Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T13:50:01.035Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T16:33:21.242Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
+
+Time: 2026-07-07T19:49:35.516Z
+Status: SUCCESS
+Message: Financial data synced successfully
+-----------------------------------
